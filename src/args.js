@@ -17,7 +17,7 @@ export function toArray(
 /**
  * Serializes flags and input as a string.
  */
-export default function toString(
+export function toString(
   serializer: Serializer,
   flags: Flags,
   input: string,
