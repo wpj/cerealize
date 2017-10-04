@@ -1,0 +1,7 @@
+lib
+dist
+es
+node_modules
+coverage
+*.log
+.nyc_output

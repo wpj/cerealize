@@ -1,0 +1,16 @@
+env:
+  node: true
+  jest: true
+  es6: true
+extends:
+  - airbnb
+  - "plugin:flowtype/recommended"
+  - prettier
+  - prettier/react
+  - prettier/flowtype
+plugins:
+  - react
+  - flowtype
+  - jsx-a11y
+  - import
+  - prettier

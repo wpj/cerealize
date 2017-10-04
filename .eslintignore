@@ -1,0 +1,10 @@
+**/dist/**
+**/lib/**
+**/es/**
+**/node_modules/**
+**/helpers/test/**
+**/webpack.config*.js
+**/rollup.config*.js
+**/*_test.js
+
+internal/helpers/browser-env.js
