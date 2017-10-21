@@ -1,4 +1,4 @@
-import toString from './args';
+import { toString } from './args';
 import { dashes } from './flags';
 
 test('toString', () => {
